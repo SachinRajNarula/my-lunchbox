@@ -8,11 +8,11 @@
 <div class="col-md-6 col-sm-12 order-md-last ftco-animate home-slider-content">
 <span class="subheading">Yummyyyyy</span>
 <h1 class="mb-4">Indian Dish</h1>
-<p class="mb-4 mb-md-5">Providers of the Bestest and the Oldest Tiffin Service of indian food in London, Ontario.</p>
-<p><a href="/menu.html" class="btn btn-primary p-3 px-xl-4 py-xl-3">View Menu</a></p>
+<p class="mb-4 mb-md-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam explicabo, incidunt provident dolor.</p>
+<p><a href="/menu.php" class="btn btn-primary p-3 px-xl-4 py-xl-3">View Menu</a></p>
 </div>
 <div class="col-md-6 ftco-animate">
-<img data-src="assets/img/bg_1.png" class="lazy img-fluid" alt="Pramukh">
+<img data-src="assets/img/bg_1.png" class="lazy img-fluid" alt="">
 </div>
 </div>
 </div>
@@ -24,11 +24,11 @@
 <div class="col-md-6 col-sm-12 ftco-animate home-slider-content">
  <span class="subheading">Delicious</span>
 <h1 class="mb-4">Indian Snacks</h1>
-<p class="mb-4 mb-md-5">Healthy and Yummy Indian snacks like Khaman, Dhokla, Ragda Petis, Dal bati, Ragda Bhel and many more... </p>
-<p><a href="/menu.html" class="btn btn-primary p-3 px-xl-4 py-xl-3">View Menu</a></p>
+<p class="mb-4 mb-md-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi eos esse debitis sunt aut. Dolores odio provident vel ipsum... </p>
+<p><a href="/menu.php" class="btn btn-primary p-3 px-xl-4 py-xl-3">View Menu</a></p>
 </div>
 <div class="col-md-6 ftco-animate">
-<img data-src="assets/img/bg_2.png" class="lazy img-fluid" alt="pramukh">
+<img data-src="assets/img/bg_2.png" class="lazy img-fluid" alt="">
 </div>
 </div>
 </div>
@@ -99,10 +99,8 @@
 </div>
 <div>
 <p class="about_text">
-We are serving you the delicious home-style food in a convenient manner at your door step.<br /><br />
-The food is prepared by our Main chef (Ami Patel) who has achieved a degree in Food and Beverages management from Fanshawe College and her real God
-gift Expertise serves the One of the Best testy food in London, We put in all the effort to make the food fresh, hot, healthy & hygienic, and we deliver their efforts to you in a neatly packed meal box.<br /><br />
-We are all about nothing but PURE AND PREMIUM QUALITY FOOD....
+Lorem ipsum dolor sit amet consectetur adipisicing elit. A eveniet aspernatur voluptas provident itaque exercitationem.<br /><br />
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugit sint dignissimos harum similique. In deserunt aut incidunt necessitatibus ad voluptatibus consectetur temporibus officiis quae. Fuga qui quidem dolore ullam? Voluptatibus!
 </p>
 </div>
 </div>
@@ -203,8 +201,7 @@ Our delivery boy will provide you the service on your door step with minimum tim
 </div>
 <div class="col-md-6 appointment ftco-animate">
 <h3 class="mb-3">Contact Us</h3>
-<div class="success_msg">Email Sent Successfully. We will Reach You Soon...</div>
-<form action="https://formsubmit.co/jerryraj40@gmail.com" class="appointment-form" id="order_form" method="post">
+<form action="https://formsubmit.co/jerryraj40@gmail.com" class="appointment-form" id="order_form" method="POST">
 <div class="d-md-flex">
 <div class="form-group">
 <input type="text" name="name" required class="form-control contact_field" placeholder="First Name">
@@ -217,7 +214,7 @@ Our delivery boy will provide you the service on your door step with minimum tim
 </div>
 <div class="d-me-flex">
 <div class="form-group">
-<input type="text" name="message" required class="form-control contact_field" placeholder="Order Description">
+<input type="text" name="order" required class="form-control contact_field" placeholder="Order Description">
 </div>
 </div>
 <div class="form-group">
@@ -226,11 +223,6 @@ Our delivery boy will provide you the service on your door step with minimum tim
 <div class="form-group">
 <button type="submit" value="Send" class="btn btn-primary submit_button py-3 px-4">Send</button>
 </div>
-</form>
-<form action="https://formsubmit.co/jerryraj40@gmail.com" method="POST">
-    <input type="text" name="name" required>
-    <input type="email" name="email" required>
-    <button type="submit">Send</button>
 </form>
 </div>
 </div>
