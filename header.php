@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Pramukh Food & Catering</title>
+<title>My Lunchbox</title>
 <meta name="description" content="We deliver homemade pure vegeterian Indian Food with premium quality in London and surrounding areas.">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link href="assets/img/favicon.ico" rel="icon" />
@@ -31,7 +31,7 @@
 </style>
 <nav class="navbar logo-div" id="ftco-navbar">
 <div class="container">
-<a class="logo-a" href="/"><img data-src="assets/img/logo.png" class="lazy img-fluid" alt="Pramukh"></a>
+<a class="logo-a" href="/"><img data-src="assets/img/logo.png" class="lazy img-fluid" alt="My Lunchbox"></a>
 
 
 </div>

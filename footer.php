@@ -2,10 +2,10 @@
 <circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee" />
 <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00" />
 </svg></div>
-<a href="../Website/menu.html" class="float" id="myBtn">
+<a href="/menu.php" class="float" id="myBtn">
 <img src="assets/img/fast-food.svg" style="width: 50px;margin-top: 4px;" /> Menu
 </a>
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+<script>
     mybutton = document.getElementById("myBtn");
     window.onscroll = function() {scrollFunction()};
     function scrollFunction() {
