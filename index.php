@@ -204,10 +204,10 @@ Our delivery boy will provide you the service on your door step with minimum tim
 <div class="col-md-6 appointment ftco-animate">
 <h3 class="mb-3">Contact Us</h3>
 <div class="success_msg">Email Sent Successfully. We will Reach You Soon...</div>
-<form action="https://formsubmit.co/jerryraj40@gmail.com" class="appointment-form" id="order_form" method="post">
+<form action="https://formsubmit.co/jerryraj40@gmail.com" class="appointment-form" id="order_form" method="POST">
 <div class="d-md-flex">
 <div class="form-group">
-<input type="text" name="name" required class="form-control contact_field" placeholder="First Name">
+<input type="text" name="name" required class="form-control contact_field" placeholder="Name">
 </div>
 </div>
 <div class="d-me-flex">
@@ -217,7 +217,7 @@ Our delivery boy will provide you the service on your door step with minimum tim
 </div>
 <div class="d-me-flex">
 <div class="form-group">
-<input type="text" name="message" required class="form-control contact_field" placeholder="Order Description">
+<input type="text" name="order" required class="form-control contact_field" placeholder="Order Description">
 </div>
 </div>
 <div class="form-group">
@@ -226,11 +226,6 @@ Our delivery boy will provide you the service on your door step with minimum tim
 <div class="form-group">
 <button type="submit" value="Send" class="btn btn-primary submit_button py-3 px-4">Send</button>
 </div>
-</form>
-<form action="https://formsubmit.co/jerryraj40@gmail.com" method="POST">
-    <input type="text" name="name" required>
-    <input type="email" name="email" required>
-    <button type="submit">Send</button>
 </form>
 </div>
 </div>
