@@ -201,6 +201,9 @@ Our delivery boy will provide you the service on your door step with minimum tim
 </div>
 <div class="col-md-6 appointment ftco-animate">
 <h3 class="mb-3">Contact Us</h3>
+<div class="media-body">
+<p>Your order has been recieved. Thank you for your interest in <span class="subheading">My Lunchbox</span>.</p>
+</div>
 <?php include "form.php";?>
 </div>
 </div>
