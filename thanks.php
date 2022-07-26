@@ -1,4 +1,7 @@
-<?php include "header.php";?>
+<?php
+$title = "Thank You - My Lunchbox";
+include "header.php";
+?>
 <a href="/" style="display:block; margin: 20px; position:relative; z-index:10001"><lord-icon
     src="https://cdn.lordicon.com/iifryyua.json"
     trigger="hover"

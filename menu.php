@@ -1,4 +1,7 @@
-<?php include "header.php";?>
+<?php
+$title = "Menu - My Lunchbox";
+include "header.php";
+?>
 
 <div class="calendar">
 <div data-tockify-component="calendar" data-tockify-calendar="lunchboxmenu"></div>

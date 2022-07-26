@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>My Lunchbox</title>
+<title><?php echo $title; ?></title>
 <meta name="description" content="We deliver homemade pure vegeterian Indian Food with premium quality in London and surrounding areas.">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link href="assets/img/favicon.ico" rel="icon" />

@@ -1,4 +1,7 @@
-<?php include "header.php";?>
+<?php
+$title = "My Lunchbox - Ghar Ka Khaana";
+include "header.php";
+?>
 
 <section class="home-slider owl-carousel img">
 <div class="slider-item">
@@ -187,13 +190,13 @@ Our delivery boy will provide you the service on your door step with minimum tim
 </li>
 <li>
 <div class="icon"><lord-icon
-    src="https://cdn.lordicon.com/iicmtpsq.json"
+    src="https://cdn.lordicon.com/uvextprq.json"
     trigger="loop"
     colors="primary:#f4791f"
     style="width:32px;height:32px">
 </lord-icon></div>
 <div class="text">
-<h4><a><span class="__cf_email__">abc@abc.com</span></a></h4>
+<h4><a href="/feedback.php"><span class="__cf_email__">Feedback</span></a></h4>
 </div>
 </li>
 </ul>
@@ -201,29 +204,7 @@ Our delivery boy will provide you the service on your door step with minimum tim
 </div>
 <div class="col-md-6 appointment ftco-animate">
 <h3 class="mb-3">Contact Us</h3>
-<form action="https://formsubmit.co/jerryraj40@gmail.com" class="appointment-form" id="order_form" method="POST">
-<div class="d-md-flex">
-<div class="form-group">
-<input type="text" name="name" required class="form-control contact_field" placeholder="First Name">
-</div>
-</div>
-<div class="d-me-flex">
-<div class="form-group">
-<input type="text" name="phone" required class="form-control contact_field" placeholder="Phone Number">
-</div>
-</div>
-<div class="d-me-flex">
-<div class="form-group">
-<input type="text" name="order" required class="form-control contact_field" placeholder="Order Description">
-</div>
-</div>
-<div class="form-group">
-<textarea name="address" id="" cols="30" required rows="3" class="form-control contact_field" placeholder="Address"></textarea>
-</div>
-<div class="form-group">
-<button type="submit" value="Send" class="btn btn-primary submit_button py-3 px-4">Send</button>
-</div>
-</form>
+<?php include "form.php";?>
 </div>
 </div>
 </div>
