@@ -7,7 +7,7 @@
     style="width:32px;height:32px; -webkit-transform: scaleX(-1); transform: scaleX(-1);">
 </lord-icon> Back</a>
 
-<div class="media-body">
+<div class="media-body" style="padding: 100px 30px 100px 30px; text-align: center;">
 <p>Your message has been recieved. Thank you for your interest in <span class="subheading">My Lunchbox</span>.</p>
 </div>
 
