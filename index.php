@@ -1,4 +1,7 @@
-<?php include "header.php";?>
+<?php
+$title = "My Lunchbox - Ghar Ka Khaana";
+include "header.php";
+?>
 
 <section class="home-slider owl-carousel img">
 <div class="slider-item">
@@ -171,7 +174,7 @@ Our delivery boy will provide you the service on your door step with minimum tim
 <div class="container-wrap">
 <div class="row no-gutters d-md-flex align-items-center">
 <div class="col-md-6 appointment ftco-animate">
-<h2 class="mb-3">Reach Us</h2>
+<h2 class="mb-3">Contact Us</h2>
 <div class="block-23 mb-3">
 <ul>
 <li>
@@ -187,20 +190,20 @@ Our delivery boy will provide you the service on your door step with minimum tim
 </li>
 <li>
 <div class="icon"><lord-icon
-    src="https://cdn.lordicon.com/iicmtpsq.json"
+    src="https://cdn.lordicon.com/uvextprq.json"
     trigger="loop"
     colors="primary:#f4791f"
     style="width:32px;height:32px">
 </lord-icon></div>
 <div class="text">
-<h4><a><span class="__cf_email__">abc@abc.com</span></a></h4>
+<h4><a href="/feedback.php"><span class="__cf_email__">Feedback</span></a></h4>
 </div>
 </li>
 </ul>
 </div>
 </div>
 <div class="col-md-6 appointment ftco-animate">
-<h3 class="mb-3">Contact Us</h3>
+<h3 class="mb-3">Order here</h3>
 <?php include "form.php";?>
 </div>
 </div>

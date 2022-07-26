@@ -7279,12 +7279,12 @@ a.text-dark:hover, a.text-dark:focus {
 
 body {
   font-family: "Poppins", Arial, sans-serif;
-  background: #121618;
+  background: black; /* #121618; */
   font-size: 15px;
   line-height: 1.8;
   font-weight: 300;
   color: gray;
-  background: url(../img/bg_4.jpg) no-repeat fixed,  linear-gradient(to bottom, black, black);
+  /* background: url(../img/bg_4.jpg) no-repeat fixed,  linear-gradient(to bottom, black, black); */
   background-size: cover; }
   body.menu-show {
     overflow: hidden;
@@ -8998,7 +8998,6 @@ textarea.form-control {
 }
 .calendar{
   padding-top: 10em;
-  display: flex;
-  justify-content: space-evenly
-
+  width: 80%;
+  margin: auto;
 }
