@@ -5,7 +5,7 @@
 <title><?php echo $title; ?></title>
 <meta name="description" content="We deliver homemade pure vegeterian Indian Food with premium quality in London and surrounding areas.">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link href="assets/img/favicon.ico" rel="icon" />
+<link href="assets/img/favicon.png" rel="icon" />
 <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Nothing+You+Could+Do" rel="stylesheet">
