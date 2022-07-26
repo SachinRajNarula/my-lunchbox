@@ -174,7 +174,7 @@ Our delivery boy will provide you the service on your door step with minimum tim
 <div class="container-wrap">
 <div class="row no-gutters d-md-flex align-items-center">
 <div class="col-md-6 appointment ftco-animate">
-<h2 class="mb-3">Reach Us</h2>
+<h2 class="mb-3">Contact Us</h2>
 <div class="block-23 mb-3">
 <ul>
 <li>
@@ -203,7 +203,7 @@ Our delivery boy will provide you the service on your door step with minimum tim
 </div>
 </div>
 <div class="col-md-6 appointment ftco-animate">
-<h3 class="mb-3">Contact Us</h3>
+<h3 class="mb-3">Order here</h3>
 <?php include "form.php";?>
 </div>
 </div>

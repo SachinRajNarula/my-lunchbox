@@ -2,7 +2,7 @@
 $title = "Feedback - My Lunchbox";
 include "header.php";
 ?>
-<form action="https://formsubmit.io/send/d906c4a3-6af9-44f0-bc6f-1e3352dc5167" class="appointment-form" method="POST" style="max-width:500px; padding:100px 20px;">
+<form action="https://formsubmit.io/send/d906c4a3-6af9-44f0-bc6f-1e3352dc5167" class="appointment-form" method="POST" style="max-width:500px; padding:100px 20px; margin:auto;">
     <div class="d-md-flex">
     <div class="form-group">
         <input type="text" name="Name" required class="form-control contact_field" placeholder="Name">
