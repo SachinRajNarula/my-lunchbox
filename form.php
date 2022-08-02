@@ -16,17 +16,19 @@
     </div>
     <div class="d-me-flex">
     <div class="form-group">
-        <label for="quantity">Quantity:</label>
-        <input type="number" name="Quantity" min="1" value="1">
+        <label for="quantity">Quantity: &nbsp;&nbsp;</label>
+        <input class="input-number" type="number" name="Quantity" min="1" value="1">
     </div>
     </div>
     <div class="d-me-flex">
     <div class="form-group">
-        <p>Do you want your Lunchbox delivered?<span>Delivery: $2.49 per address</span></p>
-        <input type="radio" name="Delivery" required class="form-control contact_field">
+        <p>Do you want your Lunchbox delivered?<span class="subtext"> Delivery: $2.49 per address </span></p>
+    <div class="radio">
+        <input type="radio" name="Delivery" required class="radio-button">
         <label for="Yes">Yes</label>
-        <input type="radio" name="Delivery" class="form-control contact_field">
+        <input type="radio" name="Delivery" class="radio-button">
         <label for="No">No</label>
+    </div>
     </div>
     </div>
     <div class="form-group">

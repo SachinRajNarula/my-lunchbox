@@ -9001,3 +9001,23 @@ textarea.form-control {
   width: 80%;
   margin: auto;
 }
+.input-number{
+  width: 50px;
+  height:25px;
+  background-color: transparent;
+  color: white;
+  text-align: center;
+}
+.subtext{
+  font-size: smaller;
+  font-style: italic;
+}
+.radio{
+  display: flex;
+}
+.radio-button{
+  width: 15px;
+  margin: 5px 5px 5px 20px;
+  position: relative;
+  top: -3px;
+}
