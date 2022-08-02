@@ -9,9 +9,9 @@ include "header.php";
 <div class="container">
 <div class="row slider-text align-items-center" data-scrollax-parent="true">
 <div class="col-md-6 col-sm-12 order-md-last ftco-animate home-slider-content">
-<span class="subheading">Yummyyyyy</span>
-<h1 class="mb-4">Indian Dish</h1>
-<p class="mb-4 mb-md-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam explicabo, incidunt provident dolor.</p>
+<span class="subheading">Diverse</span>
+<h1 class="mb-4">Indian Cuisine</h1>
+<p class="mb-4 mb-md-5">Come on in and dig into our menu! Indian food is delicious, nutritious and so fresh.</p>
 <p><a href="/menu.php" class="btn btn-primary p-3 px-xl-4 py-xl-3">View Menu</a></p>
 </div>
 <div class="col-md-6 ftco-animate">
@@ -26,8 +26,8 @@ include "header.php";
 <div class="row slider-text align-items-center" data-scrollax-parent="true">
 <div class="col-md-6 col-sm-12 ftco-animate home-slider-content">
  <span class="subheading">Delicious</span>
-<h1 class="mb-4">Indian Snacks</h1>
-<p class="mb-4 mb-md-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi eos esse debitis sunt aut. Dolores odio provident vel ipsum... </p>
+<h1 class="mb-4">Indian Dishes</h1>
+<p class="mb-4 mb-md-5"> I'm just going to say it: Indian food is the best thing ever...</p>
 <p><a href="/menu.php" class="btn btn-primary p-3 px-xl-4 py-xl-3">View Menu</a></p>
 </div>
 <div class="col-md-6 ftco-animate">
@@ -76,7 +76,7 @@ include "header.php";
     style="width: 32px;height:32px">
 </lord-icon></div>
 <div class="text">
-<h3>Open 7 days a week</h3>
+<h3>Open Monday to Saturday</h3>
 <p>8:00am - 9:00pm</p>
 </div>
 </div>
@@ -102,8 +102,8 @@ include "header.php";
 </div>
 <div>
 <p class="about_text">
-Lorem ipsum dolor sit amet consectetur adipisicing elit. A eveniet aspernatur voluptas provident itaque exercitationem.<br /><br />
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugit sint dignissimos harum similique. In deserunt aut incidunt necessitatibus ad voluptatibus consectetur temporibus officiis quae. Fuga qui quidem dolore ullam? Voluptatibus!
+We serve your every need. We cook and deliver tiffin to you as per your specifications, anywhere in the city. All you have to do is order and relax, while we take care of the rest.<br /><br />
+Our tiffin includes <b>3 Roti, 1 Sabzi, 1 Dal, Rice, Salad, Pickle</b>. Each tiffin will cost you $10. You can contact for our weekly & monthly plans. You have to order for a day before so that we can prepare your food on the day of delivery/pickup to keep it fresh.
 </p>
 </div>
 </div>
@@ -114,9 +114,7 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugit sint dignissimos
 <div class="row justify-content-center mb-5 pb-3">
 <div class="col-md-7 heading-section ftco-animate text-center">
 <h2 class="mb-4">Our Services</h2>
- <p>We are Oldest and Bestest Tiffin service provider in the London.
-Our delivery boy will provide you the service on your door step with minimum time.
-</p>
+<p> A home-cooked meal delivered to your door? Why not? 😋 </p>
 </div>
 </div>
 <div class="row">
@@ -132,7 +130,7 @@ Our delivery boy will provide you the service on your door step with minimum tim
 </div>
 <div class="media-body">
 <h3 class="heading">Healthy Foods</h3>
-<p>Freshly made food from FRESH green vegetables with very hygiene procedure. No FROZEN foods, Only Premium quality food. </p>
+<p>Hungry for a healthy meal? Our food is fresh and delicious, made with only the freshest ingredients.</p>
 </div>
 </div>
 </div>
@@ -147,7 +145,7 @@ Our delivery boy will provide you the service on your door step with minimum tim
 </div>
 <div class="media-body">
 <h3 class="heading">Fastest Delivery</h3>
-<p>Delivering your delicius food in possibly within time interval at your Door step</p>
+<p>We know that you're busy, so we deliver your food at your door step for $2.49 only!</p>
 </div>
 </div>
 </div>
@@ -162,7 +160,7 @@ Our delivery boy will provide you the service on your door step with minimum tim
 </lord-icon></div>
 <div class="media-body">
 <h3 class="heading">Original Recipes</h3>
-<p>Best and Variety of the dishes serving everyday to the Customers</p>
+<p> The homemade recipe that you will love. No artificial flavors and colors, just the way it's supposed to be!</p>
 </div>
 </div>
 </div>
