@@ -13,12 +13,12 @@
 <link href="assets/css/animate.css" type="text/css" rel="stylesheet" />
 <link href="assets/css/owl.carousel.min.css" type="text/css" rel="stylesheet" />
 <link href="assets/css/magnific-popup.css" type="text/css" rel="stylesheet" />
-
-
 <link href="assets/css/flaticon.css" type="text/css" rel="stylesheet" />
 <link href="assets/css/font-awesome/css/font-awesome.min.css" type="text/css" rel="stylesheet" />
 <link href="assets/css/style.css" type="text/css" rel="stylesheet" />
 <link href="assets/css/my.css" type="text/css" rel="stylesheet" />
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8754319314753131"
+     crossorigin="anonymous"></script>
 <script>
 		var baseUrl = '/';
 	</script>

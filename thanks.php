@@ -11,7 +11,7 @@ include "header.php";
 </lord-icon> Back</a>
 
 <div class="media-body" style="padding: 100px 30px 100px 30px; text-align: center;">
-<p>Your message has been recieved. Thank you for your interest in <span class="subheading">My Lunchbox</span>.</p>
+<p>Your message has been recieved. Thank you for your interest in <a href="/"><span class="subheading">My Lunchbox</span></a>.</p>
 </div>
 
 
