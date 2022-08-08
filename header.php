@@ -43,7 +43,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </style>
 <nav class="navbar logo-div" id="ftco-navbar">
 <div class="container">
-<a class="logo-a" href="/"><img data-src="assets/img/logo.png" class="lazy img-fluid" alt="My Lunchbox"></a>
+<a class="logo-a" href="/"><img data-src="assets/img/name-logo.png" class="lazy img-fluid" alt="My Lunchbox"></a>
 
 
 </div>
