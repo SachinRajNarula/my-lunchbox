@@ -4,7 +4,7 @@ include "header.php";
 ?>
 <a href="/" style="display:block; margin: 20px; position:relative; z-index:10001"><lord-icon
     src="https://cdn.lordicon.com/iifryyua.json"
-    trigger="hover"
+    trigger="loop"
     colors="primary:#f4791f"
     state="hover-1"
     style="width:32px;height:32px; -webkit-transform: scaleX(-1); transform: scaleX(-1);">

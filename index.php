@@ -50,7 +50,7 @@ include "header.php";
     style="width:24px;height:24px">
     </lord-icon></div>
 <div class="text phone_div">
-<h3><a href="tel:+1 (519) 981 8039">+1 (519) 981 8039</a></h3>
+<h3><a href="tel:+1 (226) 286 0059">+1 (226) 286 0059</a></h3>
 
 </div>
 </div>
@@ -84,9 +84,9 @@ include "header.php";
 </div>
 <div class="social d-md-flex pl-md-5 p-4 align-items-center text-center">
 <ul class="social-icon">
-<li class="ftco-animate"><a href="https://wa.me/+15199818039" target="blank"><i class="fa fa-whatsapp"></i></a></li>
-<li class="ftco-animate"><a href="https://www.facebook.com/name.ca/" target="blank"><i class="fa fa-facebook"></i></a></li>
-<li class="ftco-animate"><a href="https://instagram.com/name.ca" target="blank"><i class="fa fa-instagram"></i></a></li>
+<li class="ftco-animate"><a href="https://wa.me/+12262860059" target="blank"><i class="fa fa-whatsapp"></i></a></li>
+<li class="ftco-animate"><a href="https://www.facebook.com/My-Lunchbox-103176759165629" target="blank"><i class="fa fa-facebook"></i></a></li>
+<li class="ftco-animate"><a href="https://www.instagram.com/my._.lunchbox/" target="blank"><i class="fa fa-instagram"></i></a></li>
 </ul>
 </div>
 </div>
@@ -94,11 +94,11 @@ include "header.php";
 </section>
 <section class="ftco-about about-flex">
 <div class="text-center">
-<img data-src="assets/img/about.png" alt="name" class="lazy about_img">
+<img data-src="assets/img/about.png" alt="My Lunchbox" class="lazy about_img">
 </div>
 <div class="one-half ftco-animate">
 <div class="heading-section ftco-animate ">
-<h1 class="mb-4"><span class="subheading">Welcome to "Name" Food & Catering</span></h1>
+<h1 class="mb-4"><span class="subheading">Welcome to My Lunchbox Food & Catering</span></h1>
 </div>
 <div>
 <p class="about_text">
@@ -183,7 +183,7 @@ Our tiffin includes <b>3 Roti, 1 Sabzi, 1 Dal, Rice, Salad, Pickle</b>. Each tif
     style="width:32px;height:32px">
 </lord-icon></div>
 <div class="text">
-<h4><a href="tel:+1 (519) 981 8039">+1 (519) 981 8039</a></h4>
+<h4><a href="tel:+1 (226) 286 0059">+1 (226) 286 0059</a></h4>
 </div>
 </li>
 <li>

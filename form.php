@@ -40,4 +40,5 @@
     <input type="hidden" name="_next" value="https://my-lunchbox.herokuapp.com/thanks.php">
     <input type="hidden" name="_subject" value="New Tiffin Order!">
     <input type="hidden" name="_captcha" value="false">
+    <input type="hidden" name="_cc" value="mylunchbox00@gmail.com,lipikasethi00@gmail.com,badshahsnp@gmail.com,msanjeedashaheen@gmail.com">
 </form>
