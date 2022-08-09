@@ -2,6 +2,13 @@
 $title = "Feedback - My Lunchbox";
 include "header.php";
 ?>
+<a href="/" style="display:block; margin: 20px; position:relative; z-index:10001"><lord-icon
+src="https://cdn.lordicon.com/iifryyua.json"
+trigger="hover"
+colors="primary:#f4791f"
+state="hover-1"
+style="width:32px;height:32px; -webkit-transform: scaleX(-1); transform: scaleX(-1);">
+</lord-icon> Home</a>
 <form action="https://formsubmit.io/send/d906c4a3-6af9-44f0-bc6f-1e3352dc5167" class="appointment-form" method="POST" style="max-width:500px; padding:100px 20px; margin:auto;">
     <div class="d-md-flex">
     <div class="form-group">
