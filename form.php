@@ -19,12 +19,12 @@
     <div class="form-group">
         <p>How often?</p>
     <div class="radio">
-        <input type="radio" name="Package" required class="radio-button">
-        <label for="Once" value="Once" class="tooltip">Once<span class="tooltiptext">$10 - Just try it, you'll love it</span></label>
-        <input type="radio" name="Package" class="radio-button">
-        <label for="Weekly" value="Weekly" class="tooltip">Weekly<span class="tooltiptext">$55 - 6 days a week</span></label>
-        <input type="radio" name="Package" class="radio-button">
-        <label for="Monthly" value="Monthly" class="tooltip">Monthly<span class="tooltiptext">$230 - $10 off for every referral</span></label>
+        <input type="radio" name="Package" value="Once" required class="radio-button">
+        <label for="Once" class="tooltip">Once<span class="tooltiptext">$10 - Just try it, you'll love it</span></label>
+        <input type="radio" name="Package" value="Weekly" class="radio-button">
+        <label for="Weekly" class="tooltip">Weekly<span class="tooltiptext">$55 - 6 days a week</span></label>
+        <input type="radio" name="Package" value="Monthly" class="radio-button">
+        <label for="Monthly" class="tooltip">Monthly<span class="tooltiptext">$230 - $10 off for every referral</span></label>
     </div>
     </div>
     </div>
@@ -38,10 +38,10 @@
     <div class="form-group">
         <p>Do you want your Lunchbox delivered?<span class="subtext"> Delivery: $2.49 per address </span></p>
     <div class="radio">
-        <input type="radio" id="Yes" name="Delivery" required class="radio-button">
-        <label for="Yes" value="Yes">Yes, please!</label>
-        <input type="radio" id="No" name="Delivery" class="radio-button">
-        <label for="No" value="No">No, I'll pick it up</label>
+        <input type="radio" id="Yes" name="Delivery" value="Yes" required class="radio-button">
+        <label for="Yes">Yes, please!</label>
+        <input type="radio" id="No" name="Delivery" value="No" class="radio-button">
+        <label for="No">No, I'll pick it up</label>
     </div>
     </div>
     </div>
