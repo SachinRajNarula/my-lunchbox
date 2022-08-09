@@ -28,19 +28,6 @@
     </div>
     </div>
     </div>
-    <!-- <div class="d-me-flex">
-    <div class="form-group">
-        <p>How often?</p>
-    <div class="radio">
-        <input type="radio" name="Package" required class="radio-button">
-        <label for="Once" value="Once">Once($10)</label>
-        <input type="radio" name="Package" class="radio-button">
-        <label for="Weekly" value="Weekly" class="tooltip">Weekly($55)<span class="tooltiptext"> 6 days a week </span></label>
-        <input type="radio" name="Package" class="radio-button">
-        <label for="Monthly" value="Monthly" class="tooltip">Monthly($230)<span class="tooltiptext"> $10 off for each referral </span></label>
-    </div>
-    </div>
-    </div> -->
     <div class="d-me-flex">
     <div class="form-group">
         <label for="quantity">Quantity: &nbsp;&nbsp;</label>
@@ -51,9 +38,9 @@
     <div class="form-group">
         <p>Do you want your Lunchbox delivered?<span class="subtext"> Delivery: $2.49 per address </span></p>
     <div class="radio">
-        <input type="radio" name="Delivery" required class="radio-button">
+        <input type="radio" id="Yes" name="Delivery" required class="radio-button">
         <label for="Yes" value="Yes">Yes, please!</label>
-        <input type="radio" name="Delivery" class="radio-button">
+        <input type="radio" id="No" name="Delivery" class="radio-button">
         <label for="No" value="No">No, I'll pick it up</label>
     </div>
     </div>
@@ -67,5 +54,5 @@
     <input type="hidden" name="_next" value="https://my-lunchbox.herokuapp.com/thanks.php">
     <input type="hidden" name="_subject" value="New Tiffin Order!">
     <input type="hidden" name="_captcha" value="false">
-    <input type="hidden" name="_cc" value="mylunchbox00@gmail.com,lipikasethi00@gmail.com,badshahsnp@gmail.com,msanjeedashaheen@gmail.com">
+    <!-- <input type="hidden" name="_cc" value="mylunchbox00@gmail.com,lipikasethi00@gmail.com,badshahsnp@gmail.com,msanjeedashaheen@gmail.com"> -->
 </form>
