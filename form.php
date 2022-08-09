@@ -17,7 +17,15 @@
     </div>
     <div class="d-me-flex">
     <div class="form-group">
-        <input type="text" name="Package" required class="form-control contact_field" placeholder="Once($10)/Weekly($55)/Monthly($230)">
+        <p>How often?</p>
+    <div class="radio">
+        <input type="radio" name="Package" required class="radio-button">
+        <label for="Once" value="Once">Once($10)</label>
+        <input type="radio" name="Package" class="radio-button">
+        <label for="Weekly" value="Weekly" class="tooltip">Weekly($55)<span class="tooltiptext"> 6 days a week </span></label>
+        <input type="radio" name="Package" class="radio-button">
+        <label for="Monthly" value="Monthly" class="tooltip">Monthly($230)<span class="tooltiptext"> $10 off for each referral </span></label>
+    </div>
     </div>
     </div>
     <div class="d-me-flex">
