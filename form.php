@@ -12,7 +12,7 @@
     <div class="d-me-flex">
     <div class="form-group">
         <p>Please select the delivery/pickup date: <span class="subtext">My Lunchbox starts delivering after 6:00 PM</span></p>
-        <input class="input-date" name="Delivery-Date" type="date">
+        <input type="date" required class="form-control contact_field" name="Delivery-Date">
     </div>
     </div>
     <div class="d-me-flex">
@@ -20,11 +20,11 @@
         <p>How often?</p>
     <div class="radio">
         <input type="radio" name="Package" required class="radio-button">
-        <label for="Once($10)" value="Once">Once($10)</label>
+        <label for="Once" value="Once" class="tooltip">Once<span class="tooltiptext">$10 - Just try it, you'll love it</span></label>
         <input type="radio" name="Package" class="radio-button">
-        <label for="Weekly($55)" value="Weekly">Weekly($55)</label>
+        <label for="Weekly" value="Weekly" class="tooltip">Weekly<span class="tooltiptext">$55 - 6 days a week</span></label>
         <input type="radio" name="Package" class="radio-button">
-        <label for="Monthly($230)" value="Monthly">Monthly($230)</label>
+        <label for="Monthly" value="Monthly" class="tooltip">Monthly<span class="tooltiptext">$230 - $10 off for every referral</span></label>
     </div>
     </div>
     </div>
