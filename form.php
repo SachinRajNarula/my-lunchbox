@@ -12,7 +12,7 @@
     <div class="d-me-flex">
             <div class="form-group">
                 <p>Please select the delivery/pickup date: <span class="subtext">My Lunchbox starts delivering after 6:00 PM</span></p>
-                <input class="input-date" name="Delivery Date" type="date" min="<?php echo (new DateTime(tomorrow))->format('Y-m-d'); ?>>
+                <input class="input-date" name="Delivery Date" type="date">
             </div>
             </div>
         <div class="d-me-flex">
