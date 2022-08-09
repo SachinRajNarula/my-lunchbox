@@ -17,12 +17,14 @@
     </div>
     <div class="d-me-flex">
     <div class="form-group">
-        <p>Do you want your Lunchbox delivered?<span class="subtext"> Delivery: $2.49 per address </span></p>
+        <p>How often?</p>
     <div class="radio">
         <input type="radio" name="Delivery" required class="radio-button">
-        <label for="Yes" value="Yes">Yes, please!</label>
+        <label for="Once" value="Once">Once</label>
         <input type="radio" name="Delivery" class="radio-button">
-        <label for="No" value="No">No, I'll pick it up</label>
+        <label for="Weekly" value="Weekly">Weekly</label>
+        <input type="radio" name="Delivery" class="radio-button">
+        <label for="Monthly" value="Monthly">Monthly</label>
     </div>
     </div>
     </div>
