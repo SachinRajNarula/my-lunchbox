@@ -12,10 +12,21 @@
     <div class="d-me-flex">
     <div class="form-group">
         <p>Please select the delivery/pickup date: <span class="subtext">My Lunchbox starts delivering after 6:00 PM</span></p>
-        <input class="input-date" name="Delivery Date" type="date">
+        <input class="" name="Delivery Date" type="date">
     </div>
     </div>
     <div class="d-me-flex">
+    <div class="form-group">
+        <p>Do you want your Lunchbox delivered?<span class="subtext"> Delivery: $2.49 per address </span></p>
+    <div class="radio">
+        <input type="radio" name="Delivery" required class="radio-button">
+        <label for="Yes" value="Yes">Yes, please!</label>
+        <input type="radio" name="Delivery" class="radio-button">
+        <label for="No" value="No">No, I'll pick it up</label>
+    </div>
+    </div>
+    </div>
+    <!-- <div class="d-me-flex">
     <div class="form-group">
         <p>How often?</p>
     <div class="radio">
@@ -27,7 +38,7 @@
         <label for="Monthly" value="Monthly" class="tooltip">Monthly($230)<span class="tooltiptext"> $10 off for each referral </span></label>
     </div>
     </div>
-    </div>
+    </div> -->
     <div class="d-me-flex">
     <div class="form-group">
         <label for="quantity">Quantity: &nbsp;&nbsp;</label>
