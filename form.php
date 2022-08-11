@@ -20,11 +20,11 @@
         <p>How often?</p>
     <div class="radio">
         <input type="radio" name="Package" value="Once" required class="radio-button">
-        <label for="Once" class="tooltip">Once<span class="tooltiptext">$10 - Just try it, you'll love it</span></label>
+        <label for="Once" class="tooltip"><u>Once</u><span class="tooltiptext">$10 - Just try it, you'll love it</span></label>
         <input type="radio" name="Package" value="Weekly" class="radio-button">
-        <label for="Weekly" class="tooltip">Weekly<span class="tooltiptext">$55 - 6 days a week</span></label>
+        <label for="Weekly" class="tooltip"><u>Weekly</u><span class="tooltiptext">$55 - 6 days a week</span></label>
         <input type="radio" name="Package" value="Monthly" class="radio-button">
-        <label for="Monthly" class="tooltip">Monthly<span class="tooltiptext">$230 - $10 off for every referral</span></label>
+        <label for="Monthly" class="tooltip"><u>Monthly</u><span class="tooltiptext">$230 - $10 off for every referral</span></label>
     </div>
     </div>
     </div>

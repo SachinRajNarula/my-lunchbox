@@ -202,6 +202,7 @@ Our tiffin includes <b>3 Roti, 1 Sabzi, 1 Dal, Rice, Salad, Pickle</b>. Each tif
 </div>
 <div class="col-md-6 appointment ftco-animate">
 <h3 class="mb-3">Order here</h3>
+<p>Once - $10, Weekly - $55, Monthly - $230 + Discounts</p>
 <?php include "form.php";?>
 </div>
 </div>
