@@ -76,7 +76,7 @@ include "header.php";
     style="width: 32px;height:32px">
 </lord-icon></div>
 <div class="text">
-<h3>Open Monday to Saturday</h3>
+<h3>Open Monday to Friday</h3>
 <p>8:00am - 9:00pm</p>
 </div>
 </div>
@@ -202,7 +202,7 @@ Our tiffin includes <b>3 Roti, 1 Sabzi, 1 Dal, Rice, Salad, Pickle</b>. Each tif
 </div>
 <div class="col-md-6 appointment ftco-animate">
 <h3 class="mb-3">Order here</h3>
-<p>Once - $10, Weekly - $55, Monthly - $230 + Discounts</p>
+<p>Once - $10, Weekly - $45, Monthly - $180</p>
 <?php include "form.php";?>
 </div>
 </div>

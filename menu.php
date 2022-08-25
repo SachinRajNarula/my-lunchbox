@@ -10,7 +10,7 @@ include "header.php";
     style="width:32px;height:32px; -webkit-transform: scaleX(-1); transform: scaleX(-1);">
 </lord-icon> Back</a>
 <div class="calendar">
-<div data-tockify-component="calendar" data-tockify-calendar="lunchboxmenu"></div>
+<div data-tockify-component="mini" data-tockify-calendar="lunchboxmenu"></div>
 <script data-cfasync="false" data-tockify-script="embed" src="https://public.tockify.com/browser/embed.js"></script>
 </div>
 <?php include "footer.php";?>

@@ -22,9 +22,9 @@
         <input type="radio" name="Package" value="Once" required class="radio-button">
         <label for="Once" class="tooltip"><u>Once</u><span class="tooltiptext">$10 - Just try it, you'll love it</span></label>
         <input type="radio" name="Package" value="Weekly" class="radio-button">
-        <label for="Weekly" class="tooltip"><u>Weekly</u><span class="tooltiptext">$55 - 6 days a week</span></label>
+        <label for="Weekly" class="tooltip"><u>Weekly</u><span class="tooltiptext">$45 - 5 days a week</span></label>
         <input type="radio" name="Package" value="Monthly" class="radio-button">
-        <label for="Monthly" class="tooltip"><u>Monthly</u><span class="tooltiptext">$230 - $10 off for every referral</span></label>
+        <label for="Monthly" class="tooltip"><u>Monthly</u><span class="tooltiptext">$180 - Worth every penny</span></label>
     </div>
     </div>
     </div>
@@ -54,5 +54,5 @@
     <input type="hidden" name="_next" value="https://my-lunchbox.herokuapp.com/thanks.php">
     <input type="hidden" name="_subject" value="New Tiffin Order!">
     <input type="hidden" name="_captcha" value="false">
-    <input type="hidden" name="_cc" value="mylunchbox00@gmail.com,lipikasethi00@gmail.com,badshahsnp@gmail.com,msanjeedashaheen@gmail.com">
+    <input type="hidden" name="_cc" value="mylunchbox00@gmail.com,lipikasethi00@gmail.com">
 </form>
