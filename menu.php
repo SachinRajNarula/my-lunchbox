@@ -14,6 +14,6 @@ include "header.php";
 <script data-cfasync="false" data-tockify-script="embed" src="https://public.tockify.com/browser/embed.js"></script>
 </div> -->
 <div class="calendar">
-    <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23f47910&ctz=America%2FToronto&showTitle=1&showNav=1&showDate=1&showPrint=0&showTabs=1&showTz=1&src=NXQ0NTVjMW00ZHU4Z2NrczhiMjllb3NzaGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23f47910" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+    <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23f47910&ctz=America%2FToronto&showTitle=1&showNav=1&showDate=1&showPrint=0&showTabs=1&showTz=1&src=OTZlamFwb3V0cTYxOTRnajlqYmxxODZpYW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23f47910" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
 <?php include "footer.php";?>
