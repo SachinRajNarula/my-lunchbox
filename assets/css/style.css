@@ -8998,8 +8998,8 @@ textarea.form-control {
 }
 .calendar{
   padding-top: 10em;
-  margin-top: 10em;
   margin: auto;
+  margin-top: 10em;
   position: relative;
   height: 0;
   width: 85%;
