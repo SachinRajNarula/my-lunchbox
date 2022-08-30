@@ -45,6 +45,16 @@
     </div>
     </div>
     </div>
+    <div class="d-me-flex">
+    <div class="form-group">
+        <p>How would you pay?</p>
+    <div class="radio">
+        <input type="radio" name="Payment" value="Cash on delivery" required class="radio-button">
+        <label for="Once" class="tooltip"><u>COD</u><span class="tooltiptext">We accept cash on delivery</span></label>
+        <input type="radio" name="Payment" value="E-transfer" class="radio-button">
+        <label for="E-transfer" class="tooltip"><u>E-Transfer</u><span class="tooltiptext">mylunchbox00@gmail.com</span></label>
+    </div>
+    </div>
     <div class="form-group">
         <textarea name="address" id="" cols="30" rows="3" class="form-control contact_field" placeholder="Address"></textarea>
     </div>
