@@ -8998,8 +8998,18 @@ textarea.form-control {
 }
 .calendar{
   padding-top: 10em;
-  width: 80%;
   margin: auto;
+  position: relative;
+  height: 0;
+  width: 50%;
+  padding-bottom: 50%;
+}
+.calendar iframe{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 .input-number{
   width: 50px;
